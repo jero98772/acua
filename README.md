@@ -1,5 +1,7 @@
-#acua 
-##acua el naciemiento de wwwofish 
+# acua 
+
+## acua el naciemiento de wwwofish 
+
 era la idea de crear lo que hoy esta en el repo de [wwwofish](https://github.com/jero98772/wwwofish) una serie de proyectos de peces  como [curapeces](https://github.com/jero98772/curapeces) que intenta predecir las enfemedades de peces que se supone que es aquavet en este repo o [drawFishtank](https://github.com/jero98772/dibujo_acuario_p5js) que seria aquadesing
 
 hw.py es un hello word para windows sin que se cerrara la  ventana de la teminal un error muy frecuente
