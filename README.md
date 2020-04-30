@@ -7,7 +7,7 @@ era la idea de crear lo que hoy esta en el repo de [wwwofish](https://github.com
 hw.py es un hello word para windows sin que se cerrara la  ventana de la teminal un error muy frecuente
 
 caratula de aquadesing.htm era una idea de como queria que se viera la paquina
-----------
+
 
 #### contibuye con donaciones 
 	
