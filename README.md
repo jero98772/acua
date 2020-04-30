@@ -11,4 +11,4 @@ caratula de aquadesing.htm era una idea de como queria que se viera la paquina
 
 #### contibuye con donaciones 
 	
-	- Bitcoin: tb1qexn2pck3chxv98knhfmwmdma2mvyuasrmx0g57
+	- Bitcoin: tb1qgt4trnnsxdmfcpnydkmk8ht0y4esg4cdvzmhaz
