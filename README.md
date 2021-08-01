@@ -8,7 +8,3 @@ hw.py es un hello word para windows sin que se cerrara la  ventana de la teminal
 
 caratula de aquadesing.htm era una idea de como queria que se viera la paquina
 
-
-#### contibuye con donaciones 
-	
-	- Bitcoin: bc1qf3eh6ssgzw2t3qyjk2gzwuskq4ctfk8375fg3r
